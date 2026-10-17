@@ -1,0 +1,17 @@
+# API 密钥
+.env
+.env.*
+
+# Python 虚拟环境
+.venv/
+venv/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 本地任务数据
+tasks.json
+
+# 编辑器本地配置
+.vscode/
